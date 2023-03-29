@@ -13,4 +13,6 @@ html {
 body {
     position: relative;
     font-size: 1.6rem;
+    background-color: pink;
+    color: black;
 }
